@@ -1,8 +1,4 @@
 //Sheraz Ahmed 
-// CIS 121 070 with Professor Daniel Grigoletti 
-// Lab Assignment #4 
-// Completed on 7/8/2024 
-// Exercise 1
 #include <iostream>
 #include <algorithm>
 #include <string>
